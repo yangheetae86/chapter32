@@ -10,7 +10,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        VStack {
+            MyUILabel(text: "uikit 통합하기")
+        }
     }
 }
 

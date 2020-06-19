@@ -13,6 +13,7 @@
 		C19D529B249C3BEF00DF207B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C19D529A249C3BEF00DF207B /* Assets.xcassets */; };
 		C19D529E249C3BEF00DF207B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C19D529D249C3BEF00DF207B /* Preview Assets.xcassets */; };
 		C19D52A1249C3BEF00DF207B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C19D529F249C3BEF00DF207B /* LaunchScreen.storyboard */; };
+		C19D52A9249C3E8200DF207B /* MyUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19D52A8249C3E8200DF207B /* MyUILabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C19D529D249C3BEF00DF207B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C19D52A0249C3BEF00DF207B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C19D52A2249C3BEF00DF207B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C19D52A8249C3E8200DF207B /* MyUILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUILabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				C19D5294249C3BEE00DF207B /* AppDelegate.swift */,
 				C19D5296249C3BEE00DF207B /* SceneDelegate.swift */,
+				C19D52A8249C3E8200DF207B /* MyUILabel.swift */,
 				C19D5298249C3BEE00DF207B /* ContentView.swift */,
 				C19D529A249C3BEF00DF207B /* Assets.xcassets */,
 				C19D529F249C3BEF00DF207B /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 			files = (
 				C19D5295249C3BEE00DF207B /* AppDelegate.swift in Sources */,
 				C19D5297249C3BEE00DF207B /* SceneDelegate.swift in Sources */,
+				C19D52A9249C3E8200DF207B /* MyUILabel.swift in Sources */,
 				C19D5299249C3BEE00DF207B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
